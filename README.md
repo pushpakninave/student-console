@@ -41,8 +41,8 @@ https://github.com/pushpakninave/student-console/assets/65614791/d7d20e21-3d2c-4
 
 ## Folder Structure
 
-- `src/`: Spring Boot backend code.
-- `sbreact-client/`: React.js frontend code.
+- `/src`: Spring Boot backend code.
+- `/sbreact-client`: React.js frontend code.
 
 ## Contributors
 
